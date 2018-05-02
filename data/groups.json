@@ -761,15 +761,15 @@
 	"website": "http://manchester.wordcamp.org",
 	"advertised": "twitter, MWUG user group, WordPress notices. "
 }, {
-	"name": "WPUG: Windows Platform User Group",
-	"description": "Windows Platform User Group is an independent community-run group that hosts meetups in Manchester for anyone interested in designing and developing for Windows; be that Phone, Desktop, IoT or even HoloLens.",
+	"name": "DotNetNorth",
+	"description": "DotNetNorth is an independent community-run group that hosts meetups in Manchester for anyone working with Microsoft technologies.",
 	"organiser": "Pete Vickers, Rik Garner, Oli Newsham, Jason Holloway",
 	"email": "oli.newsham@outlook.com",
-	"where": "Spaceport X, 24-26 Lever Street, Manchester, M1 1DZ, Manchester",
-	"when": "Monthly",
-	"twitter": "@wpugnw",
-	"website": "http://wpug.uk",
-	"advertised": "Twitter, Meetup.com, word of mouth, Facebook"
+	"where": "Auto Trader, First Street, Manchester",
+	"when": "Monthly (Tuesday)",
+	"twitter": "@dotnetnorth",
+	"website": "http://www.dotnetnorth.org.uk/",
+	"advertised": "Twitter, Meetup.com/DotNetNorth, word of mouth, Facebook"
 }, {
  	"name": "Manchester Xamarin User Group (McrXUG)",
  	"description": "A user group for anyone interested in the .Net Mobile Development Tool Xamarin",
